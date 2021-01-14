@@ -2,4 +2,10 @@
 
 #Building a web scraper in Node.js
 
-README.md is being updated
+# Three Ways to Scrape in Node.js
+
+- Cheerio
+- Puppeteer
+- Fetch (REST / GraphQL)
+
+

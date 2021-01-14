@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.5",
-    "isomorphic-fetch": "^3.0.0"
+    "isomorphic-fetch": "^3.0.0",
+    "puppeteer": "^5.5.0"
   }
 }
